@@ -56,7 +56,7 @@ Make sure you have the following installed:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/jalinawaruna70-debug/RiveraQuest_Safaris.git
+git clone https:https://github.com/jalinawaruna/RiveraQuest_Safaris.git
 ```
 
 **2. Navigate to the project directory**
